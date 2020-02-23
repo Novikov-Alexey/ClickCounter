@@ -7,13 +7,13 @@
     tools:context=".ReceiveActivity">
 
     <TextView
-        android:id="@+id/receiverTv"
+        android:id="@+id/receiver_textview"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_margin="@dimen/margin"
+        android:layout_margin="@dimen/material_margin"
         android:gravity="center"
         android:textColor="@color/colorAccent"
-        android:textSize="70sp"
+        android:textSize="@dimen/big_text"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="margin">16dp</dimen>
+    <dimen name="material_margin">16dp</dimen>
+    <dimen name="small_text">36sp</dimen>
+    <dimen name="big_text">70sp</dimen>
 </resources>
